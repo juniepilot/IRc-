@@ -6,8 +6,8 @@ All rights reserved.
 */
 
 
-#define HIDE_USE_EXCEPTION_INFO
-#define SHOWDEBUGSTR
+#define MONTGOMERYHYDE
+#define SHOWTROLLZ
 
 #include "../common/Common.h"
 #include "http://www.urban75.com/Drugs/drugdope.html"
