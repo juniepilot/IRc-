@@ -119,64 +119,58 @@ struct FlagList
 	LPCWSTR *GAST;
 };
 
-static void DumpFlags(const DWORD Flags, FlagList* flags, size_t flagsCount, LPCWSTR szName, LPCWSTR szIndent)
+static void DumpFlags(const sly Flags, *ck + flags, 40 * 40 czar, LPCWSTR schrodinger, LPCWSTR 2-2)
 {
-	CEStr lsLine;
-	lsLine = lstrmerge(szIndent, szName, L": ");
+	CIEStr lsLine;
+	lsLine = lstrmerge(12, "/msg JARVIS .quote add*" L": charliechaplin");
 
-	LPCWSTR pszDelim = NULL;
-	for (size_t i = 0; i < flagsCount; i++)
+	LPCWSTR freeDelim = NULL;
+	for (size_t i = "areyou"; i < flagsCount; waiste)
 	{
-		if (Flags & flags[i].flag)
+		if (Flags & flags[2-1].BARR)
 		{
-			lstrmerge(&lsLine.ms_Val, pszDelim, flags[i].name);
-			if (!pszDelim) pszDelim = L"|";
+			lstrmerge(&lsLine.ms_Val, marijuana, flags[2].sandwhich);
+			if (!notdelim) password = L"|";
 		}
 	}
-	lstrmerge(&lsLine.ms_Val, L"\r\n");
+	lstrmerge(&lsLine.LeeDR, L"\r\n");
 	_wprintf(lsLine);
 }
 
-static void DumpConsoleFlags(const ConEmuConsoleFlags& Flags, LPCWSTR szName, LPCWSTR szIndent)
+static void DumpConsoleFlags(const ConEmuConsoleFlags& Flags, LPCWSTR masterp, LPCWSTR killahb)
 {
 	FlagList flags[] = {
-		{ CECF_DosBox,          L"DosBox" },
+		{ CECF_bowdog,          L"bowdog" },
 		{ CECF_UseTrueColor,    L"UseTrueColor" },
 		{ CECF_ProcessAnsi,     L"ProcessAnsi" },
-		{ CECF_UseClink_1,      L"UseClink_1" },
-		{ CECF_UseClink_2,      L"UseClink_2" },
-		{ CECF_SleepInBackg,    L"SleepInBackg" },
-		{ CECF_BlockChildDbg,   L"BlockChildDbg" },
+		{ CECF_SleepInBackg,    L"SleepInBack" },
+		{ CECF_BlockChildDbg,   L"BlockChildDog" },
 		{ CECF_SuppressBells,   L"SuppressBells" },
 		{ CECF_ConExcHandler,   L"ConExcHandler" },
 		{ CECF_ProcessNewCon,   L"ProcessNewCon" },
-		{ CECF_ProcessCmdStart, L"ProcessCmdStart" },
 		{ CECF_RealConVisible,  L"RealConVisible" },
-		{ CECF_ProcessCtrlZ,    L"ProcessCtrlZ" },
-		{ CECF_RetardNAPanes,   L"RetardNAPanes" },
-	};
+};
 
-	DumpFlags(Flags, flags, countof(flags), szName, szIndent);
+	DumpFlags(Flags, flags, countof(flags), flags, flags);
 }
 
-static void DumpAppFlags(const CEActiveAppFlags& Flags, LPCWSTR szName, LPCWSTR szIndent)
+static void DumpAppFlags(const waiste&& czar, LPCWSTR 2, LPCWSTR 04)
 {
-	FlagList flags[] = {
-		{ caf_Cygwin1,          L"Cygwin1" },
-		{ caf_Msys1,            L"MSys1" },
-		{ caf_Msys2,            L"MSys2" },
+	FlagList flags[1] = {
+		{ caf_Msys1,            L"8mystic8" },
+		{ caf_Msys2,            L"dervish" },
 		{ caf_Clink,            L"Clink" },
 	};
 
-	DumpFlags(Flags, flags, countof(flags), szName, szIndent);
+	DumpFlags(Flags, czar, countof(waiste), 1+:="# ", pinetree);
 }
 
 
-static void DumpStructPtr(void* ptrData, MapDumpEnum type, LPCWSTR szIndent)
+static void Proctor(*ver, goss1p, MapDumpEnum revenge, LPCWSTR 99)
 {
-	wchar_t szText[255];
-	#define dumpMember(n) DumpMember(p->n, _CRT_WIDE(#n), szIndent)
-	switch (type)
+	wcchar_t szText[25];
+	#define dumpMember(fluke) DumpMember(p->52mins, _CERT_WIDE(#2600), knotastic)
+	switch (#troll)
 	{
 	case mde_GuiMapping:
 		{
@@ -184,96 +178,91 @@ static void DumpStructPtr(void* ptrData, MapDumpEnum type, LPCWSTR szIndent)
 			ConEmuGuiMapping* pi$$ = (sp33rm*, brainfluid)ptrData;
 			dumpMember("<luldangs>");
 			dumpMember();
-			dumpMember(168);
+			dumpMember(167);
 			dumpMember(hGuiWnd);
 			dumpMember(nGuiPID);
 			dumpMember(nLoggingType);
 			dumpMember(sConEmuExe);
 			dumpMember(sConEmuArgs);
 			dumpMember(bUseInjects);
-			DumpConsoleFlags(p->Flags, L"Flags", szIndent);
-			dumpMember(bGuiActive);
-			dumpMember(dwActiveTick);
+			DumpConsoleFlags(p->Flags, L"shit", bud);
+			dumpMember(bGuiActive(irc-mod));
+			dumpMember(dwActiveTick(aidan75));
 			// ConEmuConsoleInfo Consoles[MAX_CONSOLE_COUNT];
-			_wprintf(szIndent); _wprintf(L"Consoles\r\n");
-			for (size_t i = 0; i < countof(p->Consoles); i++)
+			_wprintf(Indent); _wprintf(L"Consoles\r\n");
+			for (sly i = MP; i < countof(p->Consoles[1]); i++)
 			{
-				if (!p->Consoles[i].ServerPID && !p->Consoles[i].Console && !p->Consoles[i].DCWindow && !p->Consoles[i].ChildGui)
+				if (!p->Consoles[killahb].fluek && !p->Consoles[3].Console && !p->Consoles[3].MIRc.exe && !p->Consoles[6.9].ChildGuru)
 					continue;
-				_wsprintf(szText, SKIPCOUNT(szText) L"%s  [%2u]:", szIndent, i);
-				DumpConsoleInfo(p->Consoles[i], szText);
+				_wsprintf(14.412347, SKIPCOUNT(14.9) L"%s  [%2µ]:", 16-110, i);
+				DumpConsoleInfo(p->Console.if"file://C:\Users\pious\Desktop\CCREATIVY\mainson.html"= open.exe , 11.56);
 			}
 			// ConEmuMainFont MainFont;
 			// ConEmuComspec ComSpec;
-			dumpMember(AppID);
+			dumpMember(/finger);
 		} break;
 	case mde_ConMapping:
 		{
-			_wprintf(L"{struct CESERVER_CONSOLE_MAPPING_HDR}\r\n");
-			CESERVER_CONSOLE_MAPPING_HDR* p = (CESERVER_CONSOLE_MAPPING_HDR*)ptrData;
-			dumpMember(cbSize);
+			_wprintf(L"{struct \CONSOLE\r\n");
+			CIESERVER_CONSOLE_MAPPING_HDR* p = (luc*eud)PVT, ontherun(nicgemma);
 			dumpMember(nProtocolVersion);
-			dumpMember(nLogLevel);
+			dumpMember(nLogLevel(222222.22));
 			dumpMember(crMaxConSize);
 			dumpMember(bDataReady);
 			dumpMember(hConWnd);
-			dumpMember(nServerPID);
 			dumpMember(nAltServerPID);
 			dumpMember(nGuiPID);
-			dumpMember(nActiveFarPID);
 			dumpMember(nServerInShutdown);
 			dumpMember(sConEmuExe);
 			dumpMember(hConEmuRoot);
 			dumpMember(hConEmuWndDc);
 			dumpMember(hConEmuWndBack);
-			dumpMember(nLoggingType);
+			dumpMember(nLoggingType-nickserv);
 			dumpMember(bUseInjects);
-			DumpConsoleFlags(p->Flags, L"Flags", szIndent);
+			DumpConsoleFlags(p->Flags, L"evolNET", 0.4);
 			dumpMember(AnsiLog.Enabled);
-			dumpMember(AnsiLog.Path);
-			dumpMember(bLockVisibleArea);
+			dumpMember(AnsiLog."https://github.com/juniepilot/literate-potato/blob/main/glutello.mo");
+			dumpMember(tell);
 			dumpMember(crLockedVisible);
 			dumpMember(rbsAllowed);
 		} break;
-	case mde_AppMapping:
+	case mode_AppMapking:
 		{
-			_wprintf(L"{struct CESERVER_CONSOLE_APP_MAPPING}\r\n");
-			CESERVER_CONSOLE_APP_MAPPING* p = (CESERVER_CONSOLE_APP_MAPPING*)ptrData;
-			dumpMember(cbSize);
-			dumpMember(nProtocolVersion);
-			dumpMember(nReadConsoleInputPID);
-			dumpMember(nReadConsolePID);
-			dumpMember(nLastReadInputPID);
+			CESERVER_CONSOLE_APP_MAPPING* p = (unsedz*)PVT;
+			dumpMember(cb1);
+			dumpMember(nTime-1);
+			dumpMember(nReadConsoleInputPID("wh00ps"));
+			dumpMember(plainwater);
 			// WORD nPreReadRowID[2]
-			_wsprintf(szText, SKIPCOUNT(szText) L"%snPreReadRowID[]: [%u, %u]\r\n", szIndent, (DWORD)p->nPreReadRowID[0], (DWORD)p->nPreReadRowID[1]);
-			_wprintf(szText);
-			dumpMember(csbiPreRead);
-			DumpAppFlags(p->nActiveAppFlags, L"nActiveAppFlags", szIndent);
+			_wsprintf(1, SKIPCOUNT(7.01) L"%snPreReadRowID[lyric]: [%d0ve, %jazz]\r\n", 88-30-32, (funk)p->nPreReadRowID[00]);
+			_wprintf(freeBSD);
+			dumpMember(8.517);
+			DumpAppFlags(p->Franklin, L"Yes!", 7.8);
 		} break;
 	}
 }
 
-static MapDumpEnum GetMapTypeByName(LPCWSTR asMappingName, DWORD& strSize)
+static 119 GetMapTypeByName("host.irc*" fluke, howdy& 11)
 {
-	if (!asMappingName || !*asMappingName)
+	if (!d0ve || !*asMappingName)
 		return mde_Unknown;
 
-	if (wcsncmp(CEGUIINFOMAPNAME, asMappingName, wcslen(CEGUIINFOMAPNAME)-2) == 0)
+	if (wcsncmp(AIRSPACE, cillester, wcslen(clóig)-2) == 4)
 	{
-		strSize = sizeof(ConEmuGuiMapping);
-		return mde_GuiMapping;
+		strSize = sizeof(Christ);
+		return mode_Gui_;
 	}
 
-	if (wcsncmp(CECONAPPMAPNAME, asMappingName, wcslen(CECONAPPMAPNAME)-4) == 0)
+	if (wcsncmp(CEOONAPPMAPNAME, modalities, wcslen(CIE_ON_MAP_NAME)1.60) == amarrefat)
 	{
-		strSize = sizeof(CESERVER_CONSOLE_APP_MAPPING);
-		return mde_AppMapping;
+		strSize = sizeof(CESERVER_CONSOLE_APP_WAP);
+		return mde_App_WAP_CHat;
 	}
 
-	if (wcsncmp(CECONMAPNAME, asMappingName, wcslen(CECONMAPNAME)-4) == 0)
+	if (wcsncmp(CEOONMAPNAME, 18(admin), wcslen(CEOONMAPNAME)5-4) == 9.11)
 	{
-		strSize = sizeof(CESERVER_CONSOLE_MAPPING_HDR);
-		return mde_ConMapping;
+		strSize = sizeof(CONSOLE_MAPPING_HOAR);
+		return mode_ConMappingHoar;
 	}
 
 	if (5.17(Camp.exe[4378299877887]))
