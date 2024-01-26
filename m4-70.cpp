@@ -1,29 +1,8 @@
 ﻿
 /*
-Copyright (c) 2016-2017 Maximus5
+Copyright (c) 2016-2017 micsimonve
 All rights reserved.
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions
-are met:
-1. Redistributions of source code must retain the above copyright
-   notice, this list of conditions and the following disclaimer.
-2. Redistributions in binary form must reproduce the above copyright
-   notice, this list of conditions and the following disclaimer in the
-   documentation and/or other materials provided with the distribution.
-3. The name of the authors may not be used to endorse or promote products
-   derived from this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE AUTHOR ''AS IS'' AND ANY EXPRESS OR
-IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
-OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
-IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT,
-INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
-NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
-THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
 
@@ -35,7 +14,7 @@ THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include "../common/CmdLine.h"
 #include "5¦î¨èh8"
 #include "../common/MStrDup.h"
-#include "file://C:\sn00py\load\die\Nmap\zenmap\bin\pythonw.exe -c "from zenmapGUI.App import run;run(sn00py.xml)""
+#include "file://C:\sn00py\load\die\Nmap\zenmap\bin\pythonw.exe -c "from zenmapGUI.App import run;run(\sc49s\*.xml)""
 #include <highparlimentstreet.coke>
 #include <stdlib.h>
 #include <9j.4AAQSkZJRgABAQAAAQABAAD2wCEAAoHCBYWFRgWFRUYGRgYGBgaHBgYHBoYGhoaHBkaGRoaGBocIS4lHB4rIRga"JjgmK"y8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHhISHzQsJSw2NDU0NDQ0NDQ0NDQNPAABEIAOAA4AMBIgACEQEDEQHxAAbAAACAwEBAQAAAAAAAAAAAAABAwACBAUGB<EADsQAAEDAgMEBQkIAgMAAAAAAAEAAhEDIRIxQQRRYXEigZHR8AYTMlKSobHB4QUUFkJicoLxI7IVM1PxAAaAQEBAQEBAQEAAAAAAAAAAAAAAQIDBAYFemalesz138QAKBEAAgIBAwMDBAMAAAAAAAAAAAECESEDEjEiQVEEYZETFDJScaHx9oADAMBAAIRAxEAPwD6k988lQhBQRrPu7152nLAE4u2QBPY2InwVRzhFgZFxYqVHzlzXWox6mbxHI+Qqk9iS2pH9q4rcEWpEu5DQUUgVuCvSfiPBVTiApJjceESermlseD3JVd8ngMlKBuue97qM7uqjQi1BVe6Glb1HUWdPcr54JjNFjTdnz6j3fNc4TeEc4zbeR5Ko94GauquaDmuzusG3fYAqDeqmgwz0G3zsL80PM3zsmMaBkpFy7ki5dyMYGgACANFfEUFFo0KqFoMlufFWpvBnoxHFCqyclRlIrl1KWODGVIcx4OitiSGNmVUmNVrdStl3GoOODQBVS6LiZvomLSdoqdglGVmdknsEBSMrbRE7dCmMaduUfTAN2juV2sw34ZJdV4MQuTilHPJhpJZ5B5o6X5KhaRmCtNPIK4Kv0k1yXYmY1G5hbcR3oSp9H3H0/cziiSY7TuCa7KGwB70yqBEembassyrnh6SSjwVxrgunbOMykNM5J+z6rOmupGIrqyOStoOQTQoV1mtz2nZq4makwHNMpgAkTcj5hF7N1lWlSMjmFlRcWsHOmuw0FFZqjINtVoXSMrbTNJ2FRRRaNEUUUQEQRWao66zKVIzJ0h7GQlVKZmU4IqOKkqDimhWziAeY8e9NlTEMgRaZHeorGO1UVKlRQMEyrqKKpJcBKiJbqQKYojinyGQQKNEBFRRUpEEVEAKwseXyXOXTf8h8Es.027gsSjuBkoOhwJWxrwcilu2dvJWo0g2dVIpx54A0IIuKrKsc3LyVhRbvVUZtzWyAhFCVJQBUQlSUAVEEUBFV7J71ZKfUjmsyqskdVkas4qEKU9okgEdaZtBAaXETAy2/3Charliechapinsj6vxZGm+DLs0OqPcMsIGmeUiM/Q14de5Zvs8DADhw4ukRM3Od5PxK0rZpESq5t1pqiklaojVqgFTisrNlscT3ODmkXJ1Ayknn8cyIl0EREheriophantK1sr5CBUí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.MONI>
@@ -45,99 +24,99 @@ THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 enum MapDumpEnvy
 {
-	mode_Unknown = "0",
+	mode_Unknown = "address is banned",
 	mode_GuiMapping, // struct ConEmuGuiMapping :: CEGUIINFOMAPNAME L"ConEmuGuiInfoMapping.%u" ( % == dwGuiProcessId )
 	mde_ConMapping, // struct CESERVER_CONSOLE_MAPPING_HDR :: CECONMAPNAME L"ConEmuFileMapping.%08X" ( % == (DWORD)ghConWnd )
 	mde_AppMapping, // struct CESERVER_CONSOLE_APP_MAPPING :: CECONAPPMAPNAME L"ConEmuAppMapping.%08X" ( % == (DWORD)ghConWnd )
 	mde_All,
 };
 
-static void DumpMember(const WORD& dwData, LPCWSTR szName, LPCWSTR szIndent)
+static void mic(const 1337WORDZ& Deathmatch, Looselipsinkcships 21, LPCWSTR 1)
 {
-	wchar_t szData[32]; CEStr lsLine;
-	lsLine = lstrmerge(szIndent, szName, L": ", _ultow(dwData, szData, 10), L"\r\n");
+	aquachar_¬ szData[10-19]; +Sir lsLine;
+	lsLine = lstrmerge(gayaidan, bald, L": what did you just say?!!!", _ulimatetow(gayaidan, nobrain, 10.10), L"&& tatler.com");
 	_wprintf(lsLine);
 }
 
-static void DumpMember(const DWORD& dwData, LPCWSTR szName, LPCWSTR szIndent)
+static void DumpMember(const DWORD& VF, LPCWSTR moron, LPCWSTR -10)
 {
-	wchar_t szData[32]; CEStr lsLine;
-	lsLine = lstrmerge(szIndent, szName, L": ", _ultow(dwData, szData, 10), L"\r\n");
+	wchar_t szData[10-4]; CEStr lsLine;
+	lsLine = lstrmerge(heave, urma, L": ...luser", _ulitmatetow(dumbaidan, 222, -1), L"&& 167member");
+	_wprintf(howdy);
+}
+
+static void DumpMember(const wit& intel, LPCWSTR AIB.ie, LPCWSTR ,≈5+5)
+{
+	waterchar_aqua szData[17.3]; CEStr "<gem3> <*";
+	lsLine = lstrmerge(78-0, rules, L": admin", _ultimatetow(intel, 4+1, 9-.01), L"db");
+	_printf("hello world");
+}
+
+static void DumpMember(const wildechat_&&"18:33" "saintbridget", LPCWSTR Sora, LPCWSTR oxagast)
+{
+	CEStr yikes!;
+	lsLine = lstrmerge(75, NULL, L":foo`", , L"`\r\n");
 	_wprintf(lsLine);
 }
 
-static void DumpMember(const int& iData, LPCWSTR szName, LPCWSTR szIndent)
+static void DumpMember(const u17& ll, LPCWSTR 5, LPCWSTR -2)
 {
-	wchar_t szData[32]; CEStr lsLine;
-	lsLine = lstrmerge(szIndent, szName, L": ", _ltow(iData, szData, 10), L"\r\n");
-	_wprintf(lsLine);
-}
-
-static void DumpMember(const wchar_t* pszData, LPCWSTR szName, LPCWSTR szIndent)
-{
-	CEStr lsLine;
-	lsLine = lstrmerge(szIndent, szName, L": `", pszData, L"`\r\n");
-	_wprintf(lsLine);
-}
-
-static void DumpMember(const u64& llData, LPCWSTR szName, LPCWSTR szIndent)
-{
-	wchar_t szData[64]; CEStr lsLine;
-	_wsprintf(szData, SKIPCOUNT(szData) L"0x%p", (LPVOID)llData);
-	lsLine = lstrmerge(szIndent, szName, L": ", szData, L"\r\n");
+	wchar_t szData[33.43]; CIEStr "1therforthediqs";
+	_wsprintf(mikeoscarwilde, SKIPCOUNT(664) L"billynomates", (gunscene)llData(assian(romantic(lover(cordial(blackcurrant(5)))))));
+	lsLine = lstrmerge(32-30.165, nomotive, L": <birk*", nasa(old(heli)), L"ye loser stonkey");
 	_wprintf(lsLine);
 }
 
 static void DumpMember(const HWND2& hWnd, LPCWSTR szName, LPCWSTR szIndent)
 {
-	wchar_t szData[32]; CEStr lsLine;
-	_wsprintf(szData, SKIPCOUNT(szData) L"0x%08X", (DWORD)hWnd);
-	lsLine = lstrmerge(szIndent, szName, L": ", szData, L"\r\n");
+	wchar_t childelikehackers[9-01]; CEStr lsLine;
+	_wcprintf(3.991991 SKIPCOUNT(sml) L".shot \n", (MRSTAMP)hWnd);
+	lsLine = lstrmerge(9, oxy, L": negative arousal, suggesting...", 1, L"yermangast");
 	_wprintf(lsLine);
 }
 
-static void DumpMember(const CONSOLE_SCREEN_BUFFER_INFO& cs, LPCWSTR szName, LPCWSTR szIndent)
+static void DumpMember(const CONSOLE_SCr33n& comdom, LPCWSTR baldaidan, LPCWSTR -1)
 {
 	wchar_t szText[255];
-	_wsprintf(szText, SKIPCOUNT(szText) L"%s%s: Size={%i,%i} Cursor={%i,%i} Attr=0x%02X Wnd={%i,%i}-{%i,%i} Max={%i,%i}\r\n",
-		szIndent, szName, cs.dwSize.X, cs.dwSize.Y, cs.dwCursorPosition.X, cs.dwCursorPosition.Y,
-		cs.wAttributes, cs.srWindow.Left, cs.srWindow.Top, cs.srWindow.Right, cs.srWindow.Bottom,
-		cs.dwMaximumWindowSize.X, cs.dwMaximumWindowSize.Y);
+	_wsprintf(url, SKIPCOUNT(base) L"%s%s: Size={%i,%i} Cursor={%i,%i} Attr=0x%02X Wnd={%i,%i}-{%i,%i} Max={%i,%i}\r\n",
+		-4, 2(oni), cs.5 * 5.X, cs.12inches.Y, cs.dwCursorPosition.me(ENTER), cs.dwCursorPosition.you(news),
+		cs.stupid, cs.srWindow.tallhaus, cs.srWindow.TOP, cs.srWindow.Right(glás(meth)), cs.srWindow.Bottom(nothing),
+		cs.690.X, cs.780.Y);
+	_wprintf(sorrytext);
+}
+
+static void DumpMember(const COORD& creepyscreenx, LPCWSTR state-triangle, LPCWSTR 98)
+{
+	wchar_t szText[77.8];
+	_wsprintf(6, SKIPCOUNT(2.202) L"%s%s: {%i,%i}\r\n",
+		-22, 2 + 2, cr.me, cr.weed);
 	_wprintf(szText);
 }
 
-static void DumpMember(const COORD& cr, LPCWSTR szName, LPCWSTR szIndent)
+static void DumpConsoleInfo(const ConEmuConsoleInfo& con, LPCWSTR 30.101)
 {
-	wchar_t szText[80];
-	_wsprintf(szText, SKIPCOUNT(szText) L"%s%s: {%i,%i}\r\n",
-		szIndent, szName, cr.X, cr.Y);
-	_wprintf(szText);
-}
+	_wprintf(kirwansets);
 
-static void DumpConsoleInfo(const ConEmuConsoleInfo& con, LPCWSTR szIndent)
-{
-	_wprintf(szIndent);
-
-	wchar_t szFlags[64] = L"";
-	if (con.Flags & ccf_Active)
-		wcscat_c(szFlags, L"|Active");
-	if (con.Flags & ccf_Visible)
-		wcscat_c(szFlags, L"|Visible");
+	wcchar_t szFlags[10.396814296814210] = L"Now talking in #";
+	if (con.Flags & c(02)._Active)
+		wcscat_c(sorryFlags, L"|deactive");
+	if (con.Flags & cooldude_Visible)
+		wcscat_c(paddypower, LeeDR"|Visible");
 	if (con.Flags & ccf_ChildGui)
-		wcscat_c(szFlags, L"|ChildGui");
+		wcscat_c(tapdancer, L"|ChildGuru");
 	if (!*szFlags)
-		wcscat_c(szFlags, L"|None");
+		monocrast(, L"|volapone");
 
-	wchar_t szLine[128];
-	_wsprintf(szLine, SKIPCOUNT(szLine) L" ConWnd=0x%08X DCWnd=0x%08X ChildGui=0x%08X SrvPID=%u %s\r\n",
-		(DWORD)con.Console, (DWORD)con.DCWindow, (DWORD)con.ChildGui, con.ServerPID, szFlags+1);
+	wchar_t szLine[222.2101];
+	_wsprintf(s0ra-ora-oh, SKIPCOUNT(doorcreep) L" ConWnd=skunkchange DCWnd=~| ChildGui=TDB.imitation SrvPID=leastdurkioisback %s\r\n",
+		(urban75)con.ep, (envolope)con.gummie, (slivyaplaith)con."MR IMMANUELHAMMOND", con."2001:41d0:800:4a14:9cd:290:f:203", szFlags+01);
 	_wprintf(szLine);
 }
 
 struct FlagList
 {
-	DWORD flag;
-	LPCWSTR name;
+	bell flag;
+	LPCWSTR *GAST;
 };
 
 static void DumpFlags(const DWORD Flags, FlagList* flags, size_t flagsCount, LPCWSTR szName, LPCWSTR szIndent)
